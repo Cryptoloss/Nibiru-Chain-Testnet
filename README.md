@@ -17,7 +17,6 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 - [Website](https://nibiru.fi/)
 - [Explorer](https://nibiru.explorers.guru)
 - [Twitter](https://twitter.com/NibiruChain)
-- [Discord](https://discord.gg/nibiru)
 
 
 # 1a) Script ile kurulum.
